@@ -1,0 +1,101 @@
+Skill/2520030518/experiment1
+├── LICENSE
+├── Makefile
+├── README.md
+├── assets
+│   └── architecture.png
+├── bin
+│   └── my_shell
+├── docs
+│   ├── design.md
+│   └── report.pdf
+├── fork.c
+├── include
+│   ├── builtin.h
+│   ├── executor.h
+│   ├── parser.h
+│   └── shell.h
+├── main.c
+├── obj
+├── practical
+│   ├── 2520030081
+│   │   ├── Experiment1
+│   │   │   ├── 1.c
+│   │   │   ├── 2.c
+│   │   │   ├── 3.c
+│   │   │   ├── 4.c
+│   │   │   ├── 5.c
+│   │   │   ├── 6.c
+│   │   │   ├── 7.c
+│   │   │   ├── 8.c
+│   │   │   └── readme.md
+│   │   ├── Experiment3
+│   │   │   ├── readme.md
+│   │   │   ├── wait.c
+│   │   │   ├── wait_pid1.c
+│   │   │   ├── zombie.c
+│   │   │   └── zombie_ele.c
+│   │   ├── experiment - 2
+│   │   │   ├── fork_exec.c
+│   │   │   ├── fork_exec1.c
+│   │   │   └── readme
+│   │   └── placeholder.md
+│   ├── 2520030280
+│   │   ├── Experiment1
+│   │   │   ├── 1.c
+│   │   │   ├── 2.c
+│   │   │   ├── 3.c
+│   │   │   ├── 4.c
+│   │   │   ├── 5.c
+│   │   │   ├── 6.c
+│   │   │   ├── hello.c
+│   │   │   ├── readme.md
+│   │   │   └── sai.c
+│   │   ├── Experiment2
+│   │   │   ├── fork_exec.c
+│   │   │   ├── fork_exec1.c
+│   │   │   └── readme
+│   │   ├── Experiment3
+│   │   │   ├── readme
+│   │   │   ├── wait.c
+│   │   │   ├── wait_pid1.c
+│   │   │   ├── zombie.c
+│   │   │   └── zombie_ele.c
+│   │   └── reame.md
+│   └── 2520030518
+│       ├── Experiment1
+│       │   ├── 1.c
+│       │   ├── 2.c
+│       │   ├── 3.c
+│       │   ├── 4.c
+│       │   ├── 5.c
+│       │   ├── 6.c
+│       │   ├── 7.c
+│       │   ├── 8.c
+│       │   └── readme.md
+│       ├── Experiment2
+│       │   ├── fork_exec.c
+│       │   ├── fork_exec1.c
+│       │   └── readme
+│       ├── Experiment3
+│       │   ├── readme
+│       │   ├── wait.c
+│       │   ├── wait_pid1.c
+│       │   ├── zombie.c
+│       │   └── zombie_ele.c
+│       └── readme.md
+├── readme.md
+├── scripts
+│   └── run.sh
+├── src
+│   ├── builtin.c
+│   ├── executor.c
+│   ├── main.c
+│   ├── parser.c
+│   └── shell.c
+├── tests
+│   ├── test_executor.c
+│   └── test_parser.c
+└── tree_structure.txt
+
+22 directories, 77 files
